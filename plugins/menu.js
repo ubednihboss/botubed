@@ -32,8 +32,8 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
       .replace(/%week/g, week)
       .replace(/%date/g, date)
       .replace(/%time/g, time): `
-🤖 [NFQ BOT] 🤖
-Created Bye: @Drawl Nag
+🤖 [UBED BOT] 🤖
+Created Bye: @UBED X GANS
 
 Hi, ${name} 👋
 Exp: ${exp}
@@ -85,11 +85,6 @@ Cara Tambah XP:
 ╠➥ ${_p} kick @Member
 ╠➥ ${_p} grouplist
 ║
-╠═〘 EXPERIMENTAL 〙 ═
-╠➥ ${_p}jadibot [kode login jika ada / kosongin]
-╠➥ ${_p}berhenti
-╠➥ ${_p}getcode
-║
 ╠═〘 OWNER 〙 ═
 ╠➥ ${_p}bcgc <teks>
 ╠➥ ${_p}setmenu <teks>
@@ -99,18 +94,18 @@ Cara Tambah XP:
 ╠➥ ${_p}mutechat group
 ║
 ╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @arpunchs
-╠➥ Github: https://github.com/Arya274/Arya-Bot
+╠➥ Instagram: @ubed_zid
+╠➥ Github: https://github.com/ubednihboss
 ║
 ╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
+╠➥ Name : UBED BOT
 ╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
+╠➥ Request? wa.me/6281358679254
 ╠═════
 ║ Advanced:
 ║  > return m
 ║
-╠═〘 NfQ BOT 〙═
+╠═〘 UBED BOT 〙═
 `.trim()
     conn.reply(m.chat, {...preview, text}, m)
   }
