@@ -1,5 +1,5 @@
-# NfQ-BoT
-Simple WhatsApp Bot
+# apa GK suka bewan dek
+Ubed x Gans
 
 ### FOR TERMUX USER
 ```bash
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs
 > pkg install ffmpeg
 > pkg install imagemagick
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/ubednihboss/botubed
+> cd botubed
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-Bot
-> cd Arya-Bot
+> git clone https://github.com/ubednihboss/botubed
+> cd botubed
 > npm install
 ```
 ###### Run
@@ -31,6 +31,6 @@ Simple WhatsApp Bot
 ```
  SOSMED:
  
- Instagram: @arpunchs
+ Instagram: @ubed_zid
  
- Youtube: Drawl Nag
+ Youtube: Jawara Slurd
