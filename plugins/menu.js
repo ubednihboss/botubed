@@ -73,6 +73,7 @@ Cara Tambah XP:
 ╠➥ ${_p}readmore <teks>|<sembunyi>
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
+╠➥ ${_p}nulis [text]
 ║
 ╠═〘 Group 〙 ═
 ╠➥ ${_p} add [62xxxxxxxxx]
