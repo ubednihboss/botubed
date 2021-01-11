@@ -60,6 +60,12 @@ Cara Tambah XP:
 ╠═〘 Tutor BoT 〙 ═
 ╠➥ ${_p}tutorial
 ║
+║
+╠═〘 INFO 〙 ═
+╠➥ ${_p}info
+╠➥ ${_p}ikuti
+║
+║
 ╠═〘 Others 〙 ═
 ╠➥ ${_p}qr <teks>
 ╠➥ ${_p}stiker (caption)
