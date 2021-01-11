@@ -101,7 +101,7 @@ Cara Tambah XP:
 ╠➥ ${_p}deletechat group
 ╠➥ ${_p}mutechat (chat grup)
 ╠➥ ${_p}mutechat group
-╠➥ ${_p}jadwalme
+╠➥ ${_p}jpku
 ║
 ╠═〘 IKLAN 〙 ═
 ╠➥ Instagram: @ubed_zid
