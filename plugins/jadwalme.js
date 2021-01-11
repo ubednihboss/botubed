@@ -48,7 +48,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 `.trim(), m)
 }
-handler.command = /^(tutorial)$/i
+handler.command = /^(jadwalme)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
