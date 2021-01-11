@@ -78,6 +78,7 @@ Cara Tambah XP:
 ╠➥ ${_p}google <pencarian>
 ╠➥ ${_p}googlef <pencarian>
 ╠➥ ${_p}readmore <teks>|<sembunyi>
+╠➥ ${_p}ytmp3
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
 ╠➥ ${_p}nulis [text]
