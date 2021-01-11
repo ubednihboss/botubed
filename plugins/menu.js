@@ -72,6 +72,7 @@ Cara Tambah XP:
 ╠➥ ${_p}stiker <url>
 ╠➥ ${_p}toimg (reply)
 ╠➥ ${_p}bucin
+╠➥ ${_p}pantun
 ╠➥ ${_p}ssweb <url>
 ╠➥ ${_p}sswebf <url>
 ╠➥ ${_p}google <pencarian>
