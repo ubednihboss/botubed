@@ -77,10 +77,8 @@ Cara Tambah XP:
 ╠➥ ${_p}sswebf <url>
 ╠➥ ${_p}google <pencarian>
 ╠➥ ${_p}googlef <pencarian>
-╠➥ ${_p}readmore <teks>|<sembunyi>
-╠➥ ${_p}ytmp3
+╠➥ ${_p}readmore <teks>|<sembunyikan>
 ╠➥ ${_p}quran
-╠➥ ${_p}modApk
 ╠➥ ${_p}nulis [text]
 ║
 ╠═〘 Group 〙 ═
@@ -101,7 +99,6 @@ Cara Tambah XP:
 ╠➥ ${_p}deletechat group
 ╠➥ ${_p}mutechat (chat grup)
 ╠➥ ${_p}mutechat group
-╠➥ ${_p}jpku
 ║
 ╠═〘 IKLAN 〙 ═
 ╠➥ Instagram: @ubed_zid
